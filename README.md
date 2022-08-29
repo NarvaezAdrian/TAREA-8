@@ -43,14 +43,14 @@ Objetivo Específico
 ![image](https://user-images.githubusercontent.com/93733175/154728659-11215768-73d2-4967-8938-5ad34b20d62e.png)
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
-**PARTE 1: CIRCUITOS EN SERIE**
+
 **SECCIÓN 15–1 El sistema de los números complejos**
 
-1 ¿Cuáles son las dos características de una cantidad indicada mediante un número complejo?
+2 ¿Cuáles son las dos características de una cantidad indicada mediante un número complejo?
 
 **Respuesta: Magnitud y ángulo**
 
-3 localice los puntos representados por cada una de las siguientes coordenadas en el plano complejo:
+4 localice los puntos representados por cada una de las siguientes coordenadas en el plano complejo:
 
 (a)	3, j5
 
@@ -64,7 +64,7 @@ Objetivo Específico
 
 ![imagen](https://user-images.githubusercontent.com/93879569/154653144-2f0326d4-0f87-4462-a5ae-2c2fa302bf81.png)
 
-*5. Determine las coordenadas de cada punto que tenga igual magnitud, pero esté localizado a 90° de los puntos del problema 3.
+*6. Determine las coordenadas de cada punto que tenga igual magnitud, pero esté localizado a 90° de los puntos del problema 3.
 
 **(a) -5,3j  y  5,-3j**
 
@@ -72,7 +72,7 @@ Objetivo Específico
 
 **(c) -10,10j  y  -10,-10j**
 
-7. ¿Cuál es el valor de la hipotenusa de un triángulo rectángulo cuyos lados son 10 y 15?
+8. ¿Cuál es el valor de la hipotenusa de un triángulo rectángulo cuyos lados son 10 y 15?
 
 Si h = hipotenusa
 
@@ -84,7 +84,7 @@ h=√325
 
 **h=5√13=18.02**
 
-9. Convierta cada uno de los siguientes números polares a forma rectangular
+10. Convierta cada uno de los siguientes números polares a forma rectangular
 
 (a) 1000∠-50°
 
@@ -158,7 +158,7 @@ Si A+Bj, reemplazando
 
 **Forma cartesiana=-3+j0**
 
-11. Identifique el cuadrante en el cual se localiza cada uno de los puntos del problema 8.
+12. Identifique el cuadrante en el cual se localiza cada uno de los puntos del problema 8.
 
 (a)40-j40
 
@@ -176,7 +176,7 @@ Si A+Bj, reemplazando
 
 **Respuesta: primer cuadrante**
 
-13. Escriba las expresiones polares utilizando ángulos positivos para cada uno de los fasores de la figura 15-83.
+14. Escriba las expresiones polares utilizando ángulos positivos para cada uno de los fasores de la figura 15-83.
 
 ![imagen](https://user-images.githubusercontent.com/93879569/154653609-a01942c5-7ad0-43e1-929a-b858b0bad31c.png)
 
@@ -230,7 +230,7 @@ Hallar el ángulo positivo
 
 **forma polar=50∠160°**
 
-15. Realice las siguientes sustracciones:
+16. Realice las siguientes sustracciones:
 
 (a)(2.5+j1.2) - (1.4+j0.5)
 
@@ -276,7 +276,7 @@ B= 33 sen(-60°)=-28.58
 
 **(-33.94+j33.94)- (16.5-j28.58)=-50.44+j62.52**
 
-17. Realice las siguientes divisiones:
+18. Realice las siguientes divisiones:
 
 (a)  (8∠50° )/(2.5∠39° )
 
@@ -332,15 +332,14 @@ C = √(16^2+〖(8)〗^2 )=17.89
 
 **(40-j30 )/(16+j8)=(50∠-36.87°)/(17.89∠26.57°)=50/17.89∠(-36.87°-26.57°)=2.79∠-63.44°**
 
-**SECCIÓN 15–2 Respuesta sinusoidal de circuitos RC en serie**
 
-19. Se aplica un voltaje sinusoidal a 8 kHz a un circuito RC en serie. ¿Cuál es la frecuencia del voltaje a través del resistor? ¿A través del capacitor?
+20. Se aplica un voltaje sinusoidal a 8 kHz a un circuito RC en serie. ¿Cuál es la frecuencia del voltaje a través del resistor? ¿A través del capacitor?
 
 **Respuesta = a través del capacitor y del resistor la frecuencia es 8kHz**
 
-**SECCIÓN 15–3 Impedancia de circuitos RC en serie**
 
-21. Exprese la impedancia total de cada circuito mostrado en la figura 15-84 tanto en forma polar como rectangular.
+
+22. Exprese la impedancia total de cada circuito mostrado en la figura 15-84 tanto en forma polar como rectangular.
 
 ![imagen](https://user-images.githubusercontent.com/93879569/154654684-069f2f3e-d468-499f-a0cd-04a0128e1d08.png)
 
@@ -386,7 +385,7 @@ z=√(680^2+〖(-1000)〗^2 )∠ 〖tan〗^(-1) ((-1000)/680)
 
 **z=1209,3∠-55.78° Ω**
 
-23. Para el circuito de la figura 15-86, determine la impedancia expresada en forma rectangular para cada una de las siguientes frecuencias:
+24. Para el circuito de la figura 15-86, determine la impedancia expresada en forma rectangular para cada una de las siguientes frecuencias:
 
 ![imagen](https://user-images.githubusercontent.com/93879569/154654951-08f81e6e-c171-41cb-992f-500966f97a92.png)
 
@@ -446,7 +445,7 @@ Xc=1/2πfC=1/(2*π*2.5 kHz*0.0022 μF)= 28.94 kΩ
 
 **Z=56 kΩ-j28.94 kΩ**
 
-25. Determine los valores de R y XC en un circuito RC en serie para los siguientes valores de impedancia total:
+26. Determine los valores de R y XC en un circuito RC en serie para los siguientes valores de impedancia total:
 
 (a)Z= 33Ω – j50 Ω
 
@@ -496,9 +495,7 @@ Si C = 789 y θ = -45°
 
 **Xc=789*sen(45°)=557.91  kΩ** 
 
-SECCIÓN 15–4 Análisis de circuitos RC en serie
-
-27. Calcule la corriente total en cada circuito de la figura 15-85 y exprésela en forma polar.
+28. Calcule la corriente total en cada circuito de la figura 15-85 y exprésela en forma polar.
 
 ![imagen](https://user-images.githubusercontent.com/93879569/154655609-28da768f-83f8-44af-8571-f4c1e496250b.png)
 
@@ -624,7 +621,7 @@ I=(5∠20° V)/(2.51∠-56.06°  kΩ)
 
 **I=5/2.51∠(20°+56.06°)=1.99∠76,06° mA** 
 
-29. Repita el problema 28 para el circuito de la figura 15-86, con f =5 kHz.
+30. Repita el problema 28 para el circuito de la figura 15-86, con f =5 kHz.
 
 ![imagen](https://user-images.githubusercontent.com/93879569/154656141-2d4d93de-253c-4b8a-a8ab-a4f23df08c65.png)
 
@@ -665,7 +662,7 @@ Vc = 9.98
 
 **θ=44.94°**
 
-31. Para el circuito de la figura 15-88, determine lo siguiente en forma polar:
+32. Para el circuito de la figura 15-88, determine lo siguiente en forma polar:
 
 ![imagen](https://user-images.githubusercontent.com/93879569/154656398-64ff71aa-91f5-4090-8892-256c3af151b5.png)
 
@@ -697,7 +694,7 @@ VR=0.1028∠54.86° A*56Ω
 
 **Vc= 8.18∠-35.1°  V**
 
-*33. Determine el o los elementos dispuestos en serie que deben ser instalados en el bloque de la figura 15-90 para satisfacer los siguientes requerimientos: Preal 400 W y un factor de potencia de adelanto (Itot aparece adelantada con respecto a Vs).
+34. Determine el o los elementos dispuestos en serie que deben ser instalados en el bloque de la figura 15-90 para satisfacer los siguientes requerimientos: Preal 400 W y un factor de potencia de adelanto (Itot aparece adelantada con respecto a Vs).
 
 ![imagen](https://user-images.githubusercontent.com/93879569/154656613-9faefcd1-a58b-4956-ad0d-28548b781c2c.png)
 
@@ -717,7 +714,7 @@ Xc=1/2πfC=1/(2*π*1kHz*Cx)
 
 **Rx =12 Ω**
 
-35. El circuito de retraso de la figura 15-91 también actúa como filtro pasabajas. Trace una curva de respuesta para este circuito marcando el voltaje de salida contra la frecuencia de 0 Hz a 10 kHz en incrementos de 1 kHz.
+36. El circuito de retraso de la figura 15-91 también actúa como filtro pasabajas. Trace una curva de respuesta para este circuito marcando el voltaje de salida contra la frecuencia de 0 Hz a 10 kHz en incrementos de 1 kHz.
 
 ![imagen](https://user-images.githubusercontent.com/93879569/154656822-bc9c1025-5ef7-4252-be26-c96a9d0ac0ff.png)
 
@@ -733,7 +730,7 @@ Xc=1/2πfC=1/(2*π*1kHz*Cx)
 9 kHz 115 mV                                                                                                                                                                     
 10 kHz 104 mV
 
-37. Trace la curva de respuesta a la frecuencia de amplitud de salida para el circuito de adelanto de la figura 15-92 con un intervalo de frecuencia de 0 Hz a 10 kHz en incrementos de 1 kHz.
+38. Trace la curva de respuesta a la frecuencia de amplitud de salida para el circuito de adelanto de la figura 15-92 con un intervalo de frecuencia de 0 Hz a 10 kHz en incrementos de 1 kHz.
 
 ![imagen](https://user-images.githubusercontent.com/93879569/154656897-34427708-07b5-4fc0-8778-0e42a1d76837.png)
 
@@ -749,10 +746,8 @@ Xc=1/2πfC=1/(2*π*1kHz*Cx)
 9 kHz 9.84 V                                                                                                                                                                     
 10 kHz 9.87 V
 
-**Capitulo 15**                                                                                                                                                                   
-**SECCIÓN 15–4 Análisis de circuitos RC en serie**
 
-39. Repita el problema 38 para el circuito de la figura 15-92. Vs = 10 V rms y f = 1 kHz
+40. Repita el problema 38 para el circuito de la figura 15-92. Vs = 10 V rms y f = 1 kHz
 
 ![image](https://user-images.githubusercontent.com/93734334/153955050-db7b1c12-1e65-4b44-8c36-8bae4c661c10.png)
 
@@ -761,9 +756,8 @@ Xc=1/2πfC=1/(2*π*1kHz*Cx)
 ![image](https://user-images.githubusercontent.com/93734334/153973642-3840e16e-7c4e-420b-9815-111c97a76bc0.png)
 
 **PARTE 2: CIRCUITOS EN PARALELO**                                                                                                                                               
-**SECCIÓN 15–5 Impedancia y admitancia de circuitos RC en paralelo**
 
-41. Determine la magnitud de la impedancia y el ángulo de fase en la figura 15-94. 
+42. Determine la magnitud de la impedancia y el ángulo de fase en la figura 15-94. 
 
 ![image](https://user-images.githubusercontent.com/93734334/153955218-6f73c855-59c2-4930-b743-adead1b07752.png)
 
@@ -787,9 +781,8 @@ Z = (1480)(248.68)/(√(1480)^2 + (248.68)^2) < -tan^-1 (1480/248.68)
 
 **θ = 80.5°**
 
-**SECCIÓN 15–6 Análisis de circuitos RC en paralelo**
 
-43. Para el circuito de la figura 15-95, encuentre todas las corrientes y los voltajes en forma polar.
+44. Para el circuito de la figura 15-95, encuentre todas las corrientes y los voltajes en forma polar.
 
 ![image](https://user-images.githubusercontent.com/93734334/153955381-a686a119-f845-4b66-9dca-8782269765bd.png)
 
@@ -807,7 +800,7 @@ Itot = √(IR)^2 + (Ic)^2 < tan^-1 (Ic/IR)
 Itot = √(147)^2 + (111)^2 < tan^-1 (111/147)                                                                                                                                     
 **Itot = 184 < 37.1° mA**
 
-45. Para el circuito de la figura 15-97, determine lo siguiente:                                 
+46. Para el circuito de la figura 15-97, determine lo siguiente:                                 
 (a) Z (b) IR (c) IC(tot) (d) Itot (e) θ
 
 ![image](https://user-images.githubusercontent.com/93734334/153955663-df6cf923-fd99-4b3f-90ee-b9a283044ddd.png)
@@ -845,7 +838,7 @@ Itot = √(10)^2 + (11.4)^2 < tan^-1 (10/11.4)
 θ = tan^-1(11.4/10)                                                                             
 **θ = 48.8° mA**
 
-47. Cambie el circuito de la figura 15-98 a una forma equivalente dispuesta en serie
+48. Cambie el circuito de la figura 15-98 a una forma equivalente dispuesta en serie
 
 ![image](https://user-images.githubusercontent.com/93734334/153955866-fe237813-a0df-40f0-a0bf-3f024da80add.png)
 
@@ -887,31 +880,29 @@ C = 1/((2pi)(10000)(8288))
 
 El resistor de 18.7 kohm en serie con el capacitor de 192 pF
 
-**PARTE 3: CIRCUITOS EN SERIE-PARALELO**
-**SECCIÓN 15–7 Análisis de circuitos RC en serie-paralelo**
 
-49. Determine los voltajes en forma polar a través de cada elemento de la figura 15-100. Trace el diagrama fasorial de voltaje. 
+50. Determine los voltajes en forma polar a través de cada elemento de la figura 15-100. Trace el diagrama fasorial de voltaje. 
 
 ![image](https://user-images.githubusercontent.com/93734334/153956017-f24216e3-c6ee-4f92-8c8c-9a8f5e3ad251.png)
 
 
-51. Encuentre la corriente a través de cada rama y la corriente total en la figura 15-100. Exprese las corrientes en forma polar. Trace el diagrama fasorial de corriente. 
+52. Encuentre la corriente a través de cada rama y la corriente total en la figura 15-100. Exprese las corrientes en forma polar. Trace el diagrama fasorial de corriente. 
 
 ![image](https://user-images.githubusercontent.com/93734334/153956029-3cb60a9c-d9e3-4c31-8668-903d7e8cfa96.png)
 
 
-53. Determine el valor de C2 en la figura 15-102 cuando VA = VB.
+54. Determine el valor de C2 en la figura 15-102 cuando VA = VB.
 
 ![image](https://user-images.githubusercontent.com/93734334/153956217-c254a662-2b11-4abd-9003-0a723762cb2d.png)
 
-55. Encuentre la corriente a través de cada componente en la figura 15-103. 
+56. Encuentre la corriente a través de cada componente en la figura 15-103. 
 
 ![image](https://user-images.githubusercontent.com/93734334/153956281-4994844b-ab23-4464-8045-5ccf42d7525e.png)
 
 **PARTE 4: TEMAS ESPECIALES**
 **SECCIÓN 15–8 Potencia en circuitos RC**
 
-57. En un circuito RC en serie, la potencia real es de 2 W y la potencia reactiva de 3.5 VAR. Determine la
+58. En un circuito RC en serie, la potencia real es de 2 W y la potencia reactiva de 3.5 VAR. Determine la
 potencia aparente.
 
 Pa = √(Preal)^2+(Pr)^2                                                                                                                                                           
@@ -919,7 +910,7 @@ Pa = √(2)^2+(3.5)^2}
 
 **Pa = 4.03 VA**
 
-59. ¿Cuál es el factor de potencia para el circuito de la figura 15-98?
+60. ¿Cuál es el factor de potencia para el circuito de la figura 15-98?
 
 ![image](https://user-images.githubusercontent.com/93734334/153956829-8ddd7c73-4871-4687-b9ed-749d8c0fc40c.png)
 
@@ -941,7 +932,7 @@ PF = cosθ
 PF = cos(-66.2°)                                                                                                                                                                 
 **PF = 0.914**
 
-61. Una sola fuente de 240 V y 60 Hz alimenta dos cargas. La carga A tiene impedancia de 50 Æ y factor
+62. Una sola fuente de 240 V y 60 Hz alimenta dos cargas. La carga A tiene impedancia de 50 Æ y factor
 de potencia de 0.85. La carga B tiene impedancia de 72 Æ y factor de potencia de 0.95.
 
 (a) ¿Cuánta corriente consume cada carga?                                                                                                                                         
@@ -950,13 +941,13 @@ de potencia de 0.85. La carga B tiene impedancia de 72 Æ y factor de potencia d
 (d) ¿Cuál es la potencia aparente en cada carga?                                                                                                                                 
 (e) ¿Cuál carga tiene más caída de voltaje a lo largo de las líneas que la conectan a la fuente?
 
-63. ¿Qué valor de capacitor de acoplamiento se requiere en la figura 15-104 de modo que el voltaje de señal a la entrada del amplificador 2 sea por lo menos un 70.7% del voltaje de señal a la salida del amplificador 1 cuando la frecuencia es de 20 Hz?
+64. ¿Qué valor de capacitor de acoplamiento se requiere en la figura 15-104 de modo que el voltaje de señal a la entrada del amplificador 2 sea por lo menos un 70.7% del voltaje de señal a la salida del amplificador 1 cuando la frecuencia es de 20 Hz?
 
 ![image](https://user-images.githubusercontent.com/93734334/153957058-9e1ac31d-a179-4c13-9d05-ec84291e3477.png)
 
 **SECCIÓN 15–10 Localización de fallas**
 
-65. Suponga que el capacitor de la figura 15-106 tiene fugas en exceso. Muestre cómo afecta esta degradación al voltaje de salida y al ángulo de fase, suponiendo que la resistencia de fuga es de 5 kÆ y la frecuencia de 10 Hz. 
+66. Suponga que el capacitor de la figura 15-106 tiene fugas en exceso. Muestre cómo afecta esta degradación al voltaje de salida y al ángulo de fase, suponiendo que la resistencia de fuga es de 5 kÆ y la frecuencia de 10 Hz. 
 
 ![image](https://user-images.githubusercontent.com/93734334/153957157-fe53ffea-d525-47dc-b518-1b41ee13ef37.png)
 
@@ -989,48 +980,19 @@ Ic = 3.235 < 90° mA
 θ = tan^-1(11.4/10)                                                                             
 **θ = -56.7° mA**
 
-67. Determine el voltaje de salida para el circuito de la figura 15-107(a) para cada uno de los siguientes modos de falla, y compárelo con la salida correcta:
 
-(a) R1 abierto (b) R2 abierto (c) C abierto (d) C en cortocircuito
+ 
+**CAPITULO 16**
 
-![image](https://user-images.githubusercontent.com/93734334/153957469-2b462227-f4e1-42df-bf6e-cc23de64bd21.png)
 
-(a)
- 
- Vsal = (Xc/√(Rth)^2+(Xc)^2) Vth 
- 
- **Ningun voltaje de salida**
- 
- (b)
- 
- Vsal = (Xc/√(Rth)^2+(Xc)^2) Vth 
- 
- **320 < -71.3° mV**
- 
- (c)
- 
- Vsal = (Xc/√(Rth)^2+(Xc)^2) Vth 
- 
- **500 < 0° mV**
- 
- (d)
- 
- Vsal = (Xc/√(Rth)^2+(Xc)^2) Vth 
- 
- **0V**
- 
-**PARTE 1: CIRCUITOS EN SERIE**                                                                                                                                                   
-**SECCIÓN 16–1 Respuesta sinusoidal de circuitos RL en serie**
 
-1. Se aplica un voltaje sinusoidal de 15 kHz a un circuito RL en serie. ¿Cuál es la frecuencia de I, VR y VL?
+2. Se aplica un voltaje sinusoidal de 15 kHz a un circuito RL en serie. ¿Cuál es la frecuencia de I, VR y VL?
 
 **Respuesta**
 
 15kHz
 
-**SECCIÓN 16–2 Impedancia de circuitos RL en serie**
-
-3. Exprese la impedancia total de cada circuito de la figura 16-54 tanto en forma polar como rectangular.
+4. Exprese la impedancia total de cada circuito de la figura 16-54 tanto en forma polar como rectangular.
 
 ![image](https://user-images.githubusercontent.com/93734334/153957774-7deac3d1-609e-4186-a028-5c2aff44a49e.png)
 
@@ -1052,7 +1014,7 @@ Z = √(R)^2 + (XL)^2 < tan^-1 (XL/R)
 Z = √(1.5)^2 + (1)^2 < tan^-1 (1/1.5)                                                                                                                                     
 **Z = 1.8 < 33.7° kohm**
 
-5. En la figura 16-56, determine la impedancia para cada una de las siguientes frecuencias:
+6. En la figura 16-56, determine la impedancia para cada una de las siguientes frecuencias:
 
 (a) 100 Hz (b) 500 Hz (c) 1 kHz (d) 2 kHz
 
@@ -1100,7 +1062,7 @@ Z = √(R)^2 + (XL)^2 < tan^-1 (XL/R)
 Z = √(12)^2 + (251.3)^2 < tan^-1 (251.3/12)                                                                                                                                     
 **Z = 252 < 87.3° ohm**
 
-7. Reduzca el circuito de la figura 16-57 a una sola resistencia e inductancia en serie.
+8. Reduzca el circuito de la figura 16-57 a una sola resistencia e inductancia en serie.
 
 ![image](https://user-images.githubusercontent.com/93734334/153957921-1e7c3d96-99a6-46a6-967d-10c83e5f3d63.png)
 
@@ -1117,11 +1079,8 @@ RT = 476.64 +330
 LT = 3.1 + 1                                                                                                                                                                     
 **LT = 4.1 mH**
 
-**CAPITULO 16**
 
-**SECCIÓN 16–3 Análisis de circuitos RL en serie**
-
-9. Con el mismo voltaje aplicado en el problema 8, determine el voltaje a través de L3 para el circuito de la figura 16-57.
+10. Con el mismo voltaje aplicado en el problema 8, determine el voltaje a través de L3 para el circuito de la figura 16-57.
 
 ![image](https://user-images.githubusercontent.com/93733175/154728807-bc303ff3-7058-402c-a320-a4121448a2f6.png)
 
@@ -1145,7 +1104,7 @@ Usar la ley de Ohm para obtener el voltaje entre las terminales:
 
 ![image](https://user-images.githubusercontent.com/93733175/154729015-54ceeb04-6214-4c3f-80b5-85080a04c86e.png)
 
-11. Calcule la corriente total en cada circuito de la figura 16-55 y exprésela en forma polar.
+12. Calcule la corriente total en cada circuito de la figura 16-55 y exprésela en forma polar.
 
 ![image](https://user-images.githubusercontent.com/93733175/154729062-310d4280-05a8-4a90-9a0e-7e0d8d49fb6c.png)
 
@@ -1153,13 +1112,13 @@ Usar la ley de Ohm para obtener el voltaje entre las terminales:
 
 ![image](https://user-images.githubusercontent.com/93733175/154729119-0261d190-8f05-4daa-aedf-1b3840937655.png)
 
-13. Si se duplica la inductancia que aparece en la figura 16-58, ¿en cuántos grados aumenta o disminuye θ?
+14. Si se duplica la inductancia que aparece en la figura 16-58, ¿en cuántos grados aumenta o disminuye θ?
 
 ![image](https://user-images.githubusercontent.com/93733175/154729150-f862b07b-7d74-4521-af82-ec628fa2bc73.png)
 
 ![image](https://user-images.githubusercontent.com/93733175/154729191-3250c226-d733-456e-ba77-6b86746b1b23.png)
 
-15. Para el circuito de la figura 16-59, encuentre VR y VL para cada una de las siguientes frecuencias:
+16. Para el circuito de la figura 16-59, encuentre VR y VL para cada una de las siguientes frecuencias:
 
 (a) 60 Hz 
 
@@ -1171,7 +1130,7 @@ Usar la ley de Ohm para obtener el voltaje entre las terminales:
 
 ![image](https://user-images.githubusercontent.com/93733175/154729264-526edcd5-9e35-4aca-a083-37412fa02034.png)
 
-17. Para el circuito de retraso de la figura 16-61, determine el retraso de fase del voltaje de salida con respecto a la entrada a las siguientes frecuencias:
+18. Para el circuito de retraso de la figura 16-61, determine el retraso de fase del voltaje de salida con respecto a la entrada a las siguientes frecuencias:
 
 (a) 1 Hz 
 
@@ -1193,79 +1152,76 @@ Usar la ley de Ohm para obtener el voltaje entre las terminales:
 
 **SECCIÓN 16–4 Impedancia y admitancia de circuitos RL en paralelo**
 
-19. ¿Cuál es la impedancia expresada en forma polar para el circuito de la figura 16-63?
+20. ¿Cuál es la impedancia expresada en forma polar para el circuito de la figura 16-63?
 
 ![image](https://user-images.githubusercontent.com/93733175/154729402-19b5d3bf-8616-44d0-915b-d48cd52608bb.png)
 
 ![image](https://user-images.githubusercontent.com/93733175/154745975-6df63658-69f0-44c3-8488-b2c13d3461fa.png)
 
-21. ¿A qué frecuencia XL es igual a R en la figura 16-63?
+22. ¿A qué frecuencia XL es igual a R en la figura 16-63?
 
 ![image](https://user-images.githubusercontent.com/93733175/154729509-60402750-8b35-4fc3-81c3-f6a4af4a1a3c.png)
 
 ![image](https://user-images.githubusercontent.com/93733175/154746075-cd692451-824c-46d2-9bb0-eccb7ef79d6b.png)
 
-**SECCIÓN 16–5 Análisis de circuitos RL en paralelo**
 
-23. Determine las siguientes cantidades en la figura 16-65:
+24. Determine las siguientes cantidades en la figura 16-65:
 
 ![image](https://user-images.githubusercontent.com/93733175/154729551-b302962c-a7b4-4ffc-ae6e-611eabe77764.png)
 
 ![image](https://user-images.githubusercontent.com/93733175/154749944-8cfb6e1f-1705-4d3a-91bd-7a5dcad4909a.png)
 
-25. Convierta el circuito mostrado en la figura 16-66 en uno equivalente en serie.
+26. Convierta el circuito mostrado en la figura 16-66 en uno equivalente en serie.
 
 ![image](https://user-images.githubusercontent.com/93733175/154729619-d640f5ca-9b4f-4614-b55c-e6d929c166af.png)
 
 ![image](https://user-images.githubusercontent.com/93733175/154745564-5be742b4-3513-4c22-b725-dfd3920313a2.png)
 
-**SECCIÓN 16–6 Análisis de circuitos RL en serie-paralelo**
 
-27. Determine los voltajes en forma polar a través de cada uno de los elementos de la figura 16-68. Trace el diagrama fasorial de voltaje.
+
+28. Determine los voltajes en forma polar a través de cada uno de los elementos de la figura 16-68. Trace el diagrama fasorial de voltaje.
 
 ![image](https://user-images.githubusercontent.com/93733175/154729680-98fc49f9-5c3a-48da-a025-6fcfb29fc88b.png)
 
 ![image](https://user-images.githubusercontent.com/93733175/154729692-b1a00dd2-2e55-4aef-af11-91ac152799f1.png)
 
-29. Determine la corriente en cada rama y la corriente total en la figura 16-68. Expréselas en forma polar. Trace el diagrama fasorial de la corriente.
+30. Determine la corriente en cada rama y la corriente total en la figura 16-68. Expréselas en forma polar. Trace el diagrama fasorial de la corriente.
 
 ![image](https://user-images.githubusercontent.com/93733175/154729722-f827ff09-e61f-4718-a771-e7850b3ca1a8.png)
 
 ![image](https://user-images.githubusercontent.com/93733175/154729745-bc94680c-00e1-49e6-98b5-812cabb8321e.png)
 
-31. Para el circuito de la figura 16-70, determine lo siguiente:
+32. Para el circuito de la figura 16-70, determine lo siguiente:
 
 ![image](https://user-images.githubusercontent.com/93733175/154729796-a5cbbe30-efdf-484c-9191-01c68b71be0b.png)
 
 ![image](https://user-images.githubusercontent.com/93733175/154729814-f0b74025-e3ac-4d7d-bc76-e2096f2a1223.png)
 
-33. Determine el desplazamiento de fase y la atenuación (relación de Vsal a Vent) desde la entrada hasta la salida en el circuito de la figura 16-71.
+34. Determine el desplazamiento de fase y la atenuación (relación de Vsal a Vent) desde la entrada hasta la salida en el circuito de la figura 16-71.
 
 ![image](https://user-images.githubusercontent.com/93733175/154729848-04298644-294f-4871-b336-ba0e496deaeb.png)
 
 ![image](https://user-images.githubusercontent.com/93733175/154729874-57ae635b-4c2a-43f2-8f54-f2abd84b63d0.png)
 
-35. Diseñe un circuito conmutador inductivo ideal que suministre un voltaje momentáneo de 2.5 kV con una fuente de 12 V de cd cuando un interruptor es cambiado instantáneamente de una posición a otra. El consumo de corriente de la fuente no debe exceder de 1 A.
+36. Diseñe un circuito conmutador inductivo ideal que suministre un voltaje momentáneo de 2.5 kV con una fuente de 12 V de cd cuando un interruptor es cambiado instantáneamente de una posición a otra. El consumo de corriente de la fuente no debe exceder de 1 A.
 
 ![image](https://user-images.githubusercontent.com/93733175/154729906-b39aa177-457d-4732-8275-b1dc3716d11a.png)
 
-**SECCIÓN 16–7 Potencia en circuitos RL**
 
-37. Determine la potencia verdadera y la potencia reactiva en la figura 16-58.
+38. Determine la potencia verdadera y la potencia reactiva en la figura 16-58.
 
 ![image](https://user-images.githubusercontent.com/93733175/154729960-5bdfb161-a9d1-47fd-93e2-458e093b4cf3.png)
 
 ![image](https://user-images.githubusercontent.com/93733175/154729985-737c2035-cf34-4c91-b030-891d7da3d5f8.png)
 
-39. Determine P, Q, S y FP para el circuito de la figura 16-69. Trace el triángulo de potencia.
+40. Determine P, Q, S y FP para el circuito de la figura 16-69. Trace el triángulo de potencia.
 
 ![image](https://user-images.githubusercontent.com/93733175/154730010-dcbef782-7073-4047-a0d9-f21dab0ebbb2.png)
 
 ![image](https://user-images.githubusercontent.com/93733175/154745159-45466825-957e-4178-bf4e-60292ec8815f.png)
 
-**SECCIÓN 16–8 Aplicaciones básicas**
 
-41. Trace la curva de respuesta para el circuito de la figura 16-61. Muestre el voltaje de salida contra la frecuencia en incrementos de 1 kHz desde 0 Hz hasta 5 kHz.
+42. Trace la curva de respuesta para el circuito de la figura 16-61. Muestre el voltaje de salida contra la frecuencia en incrementos de 1 kHz desde 0 Hz hasta 5 kHz.
 
 ![image](https://user-images.githubusercontent.com/93733175/154730062-dd9f9705-f2e0-41c0-b05a-3bf21e57c7fd.png)
 
@@ -1275,7 +1231,7 @@ Usar la ley de Ohm para obtener el voltaje entre las terminales:
 
 ![image](https://user-images.githubusercontent.com/93733175/154730100-e7077a90-3ad9-4e75-8262-883637a606e0.png)
 
-43. Trace el diagrama fasorial de voltaje para cada circuito de las figuras 16-61 y 16-62 a una frecuencia de 8 kHz.
+44. Trace el diagrama fasorial de voltaje para cada circuito de las figuras 16-61 y 16-62 a una frecuencia de 8 kHz.
 
 ![image](https://user-images.githubusercontent.com/93733175/154750507-0ed7fa55-9fe0-41e2-8b05-4483d6865ed0.png)
 
@@ -1289,25 +1245,6 @@ Usar la ley de Ohm para obtener el voltaje entre las terminales:
 
 ![image](https://user-images.githubusercontent.com/93733175/154751375-c8472216-0193-4ad1-a36a-ab3a6b204599.png)
 
-**SECCIÓN 16–9 Localización de fallas**
-
-45. Determine el voltaje de salida en la figura 16-73 para cada uno de los siguientes modos de falla:
-
-(a) L1 abierto
-
-(b) L2 abierto 
-
-(c) R1 abierto
-
-(d) un cortocircuito a través de R2
-
-![image](https://user-images.githubusercontent.com/93733175/154743841-2fc4e416-9008-4929-8df4-3717df9b2040.png)
-
-![image](https://user-images.githubusercontent.com/93733175/154743877-98738eeb-0e66-4967-8ca2-c54391ad01e7.png)
-
-![image](https://user-images.githubusercontent.com/93733175/154743924-0e5355e8-ffc8-4221-9796-e34eeea90bd9.png)
-
-![image](https://user-images.githubusercontent.com/93733175/154743964-b6df04be-ba92-4dce-ae32-095437edcdf7.png)
 
 4. VIDEO
 
@@ -1316,11 +1253,10 @@ Usar la ley de Ohm para obtener el voltaje entre las terminales:
 5. CONCLUSIONES
 
 * En conclusión, la impedancia de un circuito en serie RL formado por resistencia y reactancia inductiva es la fuerza reactiva total con respecto a una corriente sinusoidal. La unidad es Ω (ohm). La impedancia también provoca una diferencia de fase entre la corriente total y la tensión de alimentación. Por lo tanto, la impedancia consta de un componente de magnitud y un componente de ángulo de fase.
-* Si la tensión de entrada en un circuito en serie RL es sinusoidal, todas las corrientes y tensiones son sinusoidales. La inductancia desplaza la fase de la tensión y la corriente, pero esto depende de los valores relativos de la resistencia y la reactancia inductiva.
 * Los números complejos permiten el análisis de los circuitos con fuentes alternas, además de poder proyectar el voltaje o corriente en un plano complejo. 
 * La impedancia de un circuito es el conjunto de componentes que se resisten al paso de la corriente, además, la impedancia en un circuito alterno representa el valor de la resistencia en la ley de ohm aplicada a la corriente con fuente alterna. 
 * En conclusión tenemos que el circuito RL de adelanto es un circuito de desplazamiento de fase en el cual el voltaje de salida aparece adelantado con respecto al voltaje de entrada en una cantidad especificada.
-* El circuito RL de retraso es un circuito de desplazamiento de fase en el cual el voltaje de salida se retrasa con respecto al voltaje de entrada en una cantidad especificada.
+
 
 6. BIBLIOGRAFÍA
 
